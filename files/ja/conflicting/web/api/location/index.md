@@ -1,6 +1,7 @@
 ---
 title: location.password
-slug: Web/API/Location/password
+slug: conflicting/Web/API/Location
+original_slug: Web/API/Location/password
 ---
 
 {{deprecated_header}}

@@ -1,8 +1,7 @@
 ---
 title: 'Window: vrdisplayfocus イベント'
-slug: Web/API/Window/vrdisplayfocus_event
-l10n:
-  sourceCommit: f7dae62645a2c735ed6f6ed63f664bf279fdfc4b
+slug: conflicting/Web/API/Window_a3adfa21c4e6890044eb2b73820c063d
+original_slug: Web/API/Window/vrdisplayfocus_event
 ---
 
 {{APIRef("Window")}}{{Deprecated_Header}}{{Non-standard_Header}}

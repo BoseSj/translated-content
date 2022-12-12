@@ -1,6 +1,6 @@
 ---
 title: VRPose.timestamp
-slug: Web/API/VRPose/timeStamp
+slug: conflicting/Web/API/VRPose
 page-type: web-api-instance-property
 tags:
   - API
@@ -13,6 +13,7 @@ tags:
   - WebVR
   - timeStamp
   - Non-standard
+original_slug: Web/API/VRPose/timeStamp
 browser-compat: api.VRPose.timestamp
 ---
 

@@ -1,13 +1,12 @@
 ---
-title: 'Window: vrdisplaypointerunrestricted イベント'
-slug: Web/API/Window/vrdisplaypointerunrestricted_event
-l10n:
-  sourceCommit: f7dae62645a2c735ed6f6ed63f664bf279fdfc4b
+title: 'Window: vrdisplaypointerrestricted イベント'
+slug: conflicting/Web/API/Window_b9b2c111f0015028d4f1714d4da390da
+original_slug: Web/API/Window/vrdisplaypointerrestricted_event
 ---
 
 {{APIRef("Window")}}{{Deprecated_Header}}{{Non-standard_Header}}
 
-**`vrdisplaypointerunrestricted`** は [WebVR API](/ja/docs/Web/API/WebVR_API) のイベントで、 VR ディスプレイのポインター入力が[ポインターロックされた要素](/ja/docs/Web/API/Pointer_Lock_API)を介した消費を制限されなくなったときに、このイベントが発行されます。
+**`vrdisplaypointerrestricted`** は [WebVR API](/ja/docs/Web/API/WebVR_API) のイベントで、 VRディスプレイのポインター入力が[ポインターロックされた要素](/ja/docs/Web/API/Pointer_Lock_API)を介して消費を制限されたときに発行されます。
 
 > **メモ:** このイベントは古い [WebVR API](https://immersive-web.github.io/webvr/spec/1.1/) の一部でした。これは [WebXR 機器 API](https://immersive-web.github.io/webxr/) に置き換えられました。
 
@@ -18,9 +17,9 @@ l10n:
 このイベント名を {{domxref("EventTarget.addEventListener", "addEventListener()")}} などのメソッドで使用するか、イベントハンドラープロパティを設定するかしてください。
 
 ```js
-addEventListener('vrdisplaypointerunrestricted', (event) => { });
+addEventListener('vrdisplaypointerrestricted', (event) => { });
 
-onvrdisplaypointerunrestricted = (event) => { };
+onvrdisplaypointerrestricted = (event) => { };
 ```
 
 ## イベント型
@@ -40,18 +39,18 @@ _`VRDisplayEvent` は親オブジェクトである {{domxref("Event")}} から�
 
 ## 例
 
-`vrdisplaypointerunrestricted` イベントは [`addEventListener`](/ja/docs/Web/API/EventTarget/addEventListener) メソッドで使用することができます。
+`vrdisplaypointerrestricted` イベントは [`addEventListener`](/ja/docs/Web/API/EventTarget/addEventListener) メソッドで使用することができます。
 
 ```js
-window.addEventListener('vrdisplaypointerunrestricted', () => {
+window.addEventListener('vrdisplaypointerrestricted', () => {
   // ポインターロックを処理するコードを実行
 });
 ```
 
-または、 `onvrdisplaypointerunrestricted` イベントハンドラープロパティを使用してください。
+または、 `onvrdisplaypointerrestricted` イベントハンドラープロパティを使用してください。
 
 ```js
-window.onvrdisplaypointerunrestricted = () => {
+window.onvrdisplaypointerrestricted = () => {
   // ポインターロックを処理するコードを実行
 };
 ```

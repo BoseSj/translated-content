@@ -1,6 +1,7 @@
 ---
 title: MediaStreamTrack.remote
-slug: Web/API/MediaStreamTrack/remote
+slug: conflicting/Web/API/MediaStreamTrack
+original_slug: Web/API/MediaStreamTrack/remote
 ---
 
 {{APIRef("Media Capture and Streams")}}{{deprecated_header}}

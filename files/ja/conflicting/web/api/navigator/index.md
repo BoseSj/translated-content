@@ -1,6 +1,7 @@
 ---
 title: Navigator.mozIsLocallyAvailable()
-slug: Web/API/Navigator/mozIsLocallyAvailable
+slug: conflicting/Web/API/Navigator
+original_slug: Web/API/Navigator/mozIsLocallyAvailable
 ---
 
 {{APIRef("HTML DOM")}} {{non-standard_header}}{{deprecated_header}}

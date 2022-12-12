@@ -1,6 +1,7 @@
 ---
 title: location.username
-slug: Web/API/Location/username
+slug: conflicting/Web/API/Location_f9d2f5fc3b305f0d4a1256782168497d
+original_slug: Web/API/Location/username
 ---
 
 {{deprecated_header}}

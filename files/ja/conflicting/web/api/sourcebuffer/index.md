@@ -1,6 +1,7 @@
 ---
 title: SourceBuffer.appendStream()
-slug: Web/API/SourceBuffer/appendStream
+slug: conflicting/Web/API/SourceBuffer
+original_slug: Web/API/SourceBuffer/appendStream
 ---
 
 {{APIRef("Media Source Extensions")}}{{SeeCompatTable}}

@@ -1,8 +1,7 @@
 ---
 title: 'Window: vrdisplayblur イベント'
-slug: Web/API/Window/vrdisplayblur_event
-l10n:
-  sourceCommit: f7dae62645a2c735ed6f6ed63f664bf279fdfc4b
+slug: conflicting/Web/API/Window
+original_slug: Web/API/Window/vrdisplayblur_event
 ---
 
 {{APIRef("Window")}}{{Deprecated_Header}}{{Non-standard_Header}}

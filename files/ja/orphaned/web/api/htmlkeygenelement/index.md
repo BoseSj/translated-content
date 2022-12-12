@@ -1,6 +1,7 @@
 ---
 title: HTMLKeygenElement
-slug: Web/API/HTMLKeygenElement
+slug: orphaned/Web/API/HTMLKeygenElement
+original_slug: Web/API/HTMLKeygenElement
 ---
 
 {{ APIRef("HTML DOM") }}

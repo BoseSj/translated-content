@@ -1,8 +1,7 @@
 ---
 title: SharedWorkerGlobalScope.applicationCache
-slug: Web/API/SharedWorkerGlobalScope/applicationCache
-l10n:
-  sourceCommit: 06105598d11001e9f12d80ad05087f1df3c0634b
+slug: conflicting/Web/API/SharedWorkerGlobalScope
+original_slug: Web/API/SharedWorkerGlobalScope/applicationCache
 ---
 
 {{APIRef("Web Workers API")}}{{SecureContext_Header}}{{Deprecated_Header}}{{Non-standard_Header}}

@@ -1,6 +1,7 @@
 ---
 title: Element.createShadowRoot()
-slug: Web/API/Element/createShadowRoot
+slug: conflicting/Web/API/Element/shadowRoot
+original_slug: Web/API/Element/createShadowRoot
 ---
 
 {{APIRef('Shadow DOM')}}{{non-standard_header}}{{deprecated_header}}
